@@ -1,2 +1,4 @@
 # 开发环境 
-neo.hello=dev
+info:
+  profile: dev
+
